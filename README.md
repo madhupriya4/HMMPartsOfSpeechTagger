@@ -1,4 +1,4 @@
-# HMM_Pos_Tagging
+# HMM_POS_Tagger
 
 ## Programs
 
